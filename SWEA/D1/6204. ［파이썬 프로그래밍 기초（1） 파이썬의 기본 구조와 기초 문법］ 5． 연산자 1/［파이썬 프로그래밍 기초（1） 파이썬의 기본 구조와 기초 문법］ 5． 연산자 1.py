@@ -1,0 +1,2 @@
+n = float(input())
+print(f"{n:.2f} inch => {n * 2.54:.2f} cm")
